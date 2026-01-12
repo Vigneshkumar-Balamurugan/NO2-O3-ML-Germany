@@ -38,7 +38,7 @@ Due to data size constraints, **raw observational and satellite datasets are not
 
 The modeling framework integrates:
 
-- **Satellite observations** (e.g., TROPOMI NO₂, O<sub>3, HCHO)
+- **Satellite observations** (e.g., TROPOMI NO<sub>2</sub>, O<sub>3</sub> and HCHO)
 - **Meteorological variables** (boundary layer height, wind speed/direction, temperature, humidity)
 - **Land-use and vegetation indices** (NDVI)
-- **Emission and proxy variables (road density**
+- **Emission and proxy variables (road density)**
